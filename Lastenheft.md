@@ -1,12 +1,12 @@
 # Inhalt
 
-1) [Zielbestimmungen](#ziel)
-  1.1) [Muss-Kriterien](#muss)
-  1.2) [Soll-Kriterien](#soll)
-2) [Einsatz](#einsatz)
-  2.1) [Anwendungsbereich](#anwendung)
-  2.2) [Zielgruppen](#zielgruppen)
-  2.3) [Betriebsbedingung](#betriebsbedingung)
+- [1) Zielbestimmungen](#ziel)
+  - [1.1) Muss-Kriterien](#muss)
+  - [1.2) Soll-Kriterien](#soll)
+- [2) Einsatz](#einsatz)
+  - [2.1) Anwendungsbereich](#anwendung)
+  - [2.2) Zielgruppen](#zielgruppen)
+  - [2.3) Betriebsbedingung](#betriebsbedingung)
   
 <a name="ziel"></a>
 ## 1) Zielbestimmungen
@@ -75,8 +75,12 @@ Das System soll mit einer Internetverbindung von überall aus bedienbar und konf
 <a name="backend"></a>
 ### 3.1) Backend
 
+Die Architektur wird eine Microservice-Architektur sein. Dies hat den Grund, dass solche Systeme skalable und zukunftssicher sind. Es gibt eine Haupt-Applikation und verschiedene Services für verschiedene Funktionalitäten (Support, Bestellung, Profil, etc.). Diese sind alle voneinander unabhängig und können dementsprechend auch mit verschiedenen Programmiersprachen oder Techniken entwickelt werden. Die Kommunikation soll über REST laufen, da dies weitgehend bekannt und als weitgehend gut akzeptiert wird.
+
 <a name="frontend"></a>
 ### 3.2) Frontend
+
+Das Frontend basiert auf bereits bekannten und berühmten Apps für Telegram. Das Design ist simpel und intuitiv, so einfach wie möglich und so komplex wie nötig. Durch einfache Auswahlfenster und Entscheidungsdialoge mit dem Shop soll das Design so einfach wie möglich sein. Große Anpassungen sind nicht nötig bzw. müssen nicht möglich sein.
 
 <a name="hosting"></a>
 ### 3.3) Hosting
@@ -86,6 +90,8 @@ Das System soll mit einer Internetverbindung von überall aus bedienbar und konf
 
 <a name="daten"></a>
 ## 4) Daten
+
+Die Daten werden relational in Datenbanken gespeichert. Diese sind in Tabellen verfügbar und können über SQL ausgelesen werden. Es sind pro Shop im Schnitt 1.000-10.000 Datensätze zu Bestellungen, 500-5.000 Datensätze zu Profilen sowie Datensätze für 20-100 Produkte und deren verfügbarkein zu erwarten. In den ersten Jahren sind Kapazitäten für bis zu 10.000 Shops geplant. Die Daten müssen mindestens so lange gehalten werden, wie nach Gesetzt für zB. Buchhaltung vorgeschrieben ist. 
 
 <a name="ui"></a>
 ## 5) Benutzeroberfläche
