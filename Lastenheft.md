@@ -75,7 +75,7 @@ Das System soll mit einer Internetverbindung von überall aus bedienbar und konf
 <a name="backend"></a>
 ### 3.1) Backend
 
-Die Architektur wird eine Microservice-Architektur sein. Dies hat den Grund, dass solche Systeme skalable und zukunftssicher sind. Es gibt eine Haupt-Applikation und verschiedene Services für verschiedene Funktionalitäten (Support, Bestellung, Profil, etc.). Diese sind alle voneinander unabhängig und können dementsprechend auch mit verschiedenen Programmiersprachen oder Techniken entwickelt werden. Die Kommunikation soll über REST laufen, da dies weitgehend bekannt und als weitgehend gut akzeptiert wird.
+Die Architektur wird eine Microservice-Architektur sein. Dies hat den Grund, dass solche Systeme skalable und zukunftssicher sind. Es gibt eine Haupt-Applikation und verschiedene Services für verschiedene Funktionalitäten (Support, Bestellung, Profil, etc.). Diese sind alle voneinander unabhängig und können dementsprechend auch mit verschiedenen Programmiersprachen oder Techniken entwickelt werden. Die Kommunikation soll über REST laufen, da dies weitgehend bekannt und als weitgehend gut akzeptiert wird. 
 
 <a name="frontend"></a>
 ### 3.2) Frontend
@@ -85,8 +85,12 @@ Das Frontend basiert auf bereits bekannten und berühmten Apps für Telegram. Da
 <a name="hosting"></a>
 ### 3.3) Hosting
 
+Das Hosting für Telegram-Bots ist auf AWS geplant. Dort gibt es zum Hosten, zum Loggen und zum Überwachen eine Vielzahl von Apps, die effizient die Arbeitsschritte erleichtern.
+
 <a name="architektur"></a>
 ### 3.4) Architektur
+
+kommt noch von Yasin & Marsl
 
 <a name="daten"></a>
 ## 4) Daten
