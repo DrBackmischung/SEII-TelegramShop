@@ -100,12 +100,20 @@ Die Daten werden relational in Datenbanken gespeichert. Diese sind in Tabellen v
 <a name="ui"></a>
 ## 5) Benutzeroberfläche
 
+Die Benutzeroberfläche für die Hauptanwendung ist das Chat-Fenster von Telegram. Dort kann mit Bildern und Dialogfenstern die Applikation gesteuert werden. Diese Bilder und das Design der Dialoge, Nachrichten und Popups sollen intuitiv und einfach sein, nicht zu sehr rausstechen und schlicht sein. 
+
 <a name="qualität"></a>
 ## 6) Qualität
+
+Die Anwendung soll qualitätativ hochwertig sein. Die Anwendung soll so implementiert werden, dass sie eine minimale Ausfall- und Absturzquote hat, damit der Enduser keine Probleme mit der Anwendung bekommt. Das Design soll so intuitiv und objektiv schön wie möglich gehalten werden, damit der Enduser die Applikation nicht hässlich findet. Außerdem soll der Code eine gewisse Qualität aufweisen, dies wird durch Code Testing mit einer maximalen Coverage sichergestellt.
 
 <a name="funktionen"></a>
 ## 7) Funktionen
 
+Hier User Story einfügen
+
 <a name="ergänzungen"></a>
 ## 8) Ergänzungen
+
+Zum jetzigen Zeitpunkt keine Ergänzungen.
 
