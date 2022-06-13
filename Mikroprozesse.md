@@ -1,34 +1,34 @@
 # Liste der Mikroprozesse/-module
 
 ## Dynamische Module
-- Shop anlegen
+- Shop anlegen    ✔️
   - Use-Case-Diagramm
   - Aktivitätsdiagramm mit BPMN
-- Shop konfigurieren
+- Shop konfigurieren    ✔️
   - Use-Case-Diagramm
   - Aktivitätsdiagramm mit BPMN
-- Shop löschen
+- Shop löschen    ✔️
   - Use-Case-Diagramm
   - Aktivitätsdiagramm mit BPMN
-- Warenkorb verwalten
+- Warenkorb verwalten   ✔️
   - Use-Case-Diagramm
   - Aktivitätsdiagramm mit BPMN
-- Bestellvorgang
+- Bestellvorgang    ✔️
   - Use-Case-Diagramm
   - Aktivitätsdiagramm mit BPMN
-- Bezahlvorgang
+- Bezahlvorgang   ✔️
   - Use-Case-Diagramm
   - Aktivitätsdiagramm mit BPMN
-- Lieferungsverfolgung
+- Lieferungsverfolgung    ✔️
   - Use-Case-Diagramm
   - Aktivitätsdiagramm mit BPMN
-- Kundenkonto anlegen
+- Kundenkonto anlegen   ✔️
   - Use-Case-Diagramm
   - Aktivitätsdiagramm mit BPMN
-- Kundenkonto bearbeiten
+- Kundenkonto bearbeiten    ✔️
   - Use-Case-Diagramm
   - Aktivitätsdiagramm mit BPMN
-- Kundenkonto löschen
+- Kundenkonto löschen   ✔️
   - Use-Case-Diagramm
   - Aktivitätsdiagramm mit BPMN
 
