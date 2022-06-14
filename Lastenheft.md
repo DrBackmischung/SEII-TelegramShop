@@ -29,6 +29,7 @@ Der Kunde muss
 - die Möglichkeit haben, den Support kontaktieren zu können
 
 Der Admin muss
+- sich über den zentralen Bot einen eigenen Shop-Bot anlegen können
 - das Sortiment anlegen können
 - die Bestellungen ansehen können
 - die Funktionalitäten des Shops verändern können
