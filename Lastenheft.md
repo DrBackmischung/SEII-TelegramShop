@@ -110,7 +110,7 @@ Die Anwendung soll qualitätativ hochwertig sein. Die Anwendung soll so implemen
 
 <a name="funktionen"></a>
 ## 7) Funktionen
-User Story: 
+User Story:
 Als Administrator des Shops möchte ich ohne Programmierkenntnisse einen Shop in Telegram anliegen können, um mir meine Zeit und Mühe zu sparen.
 Als Administrator des Shops möchte ich unkompliziert das Sortiment meines Shops verwalten können, um das immer auf dem aktuellen Stand zu halten.
 Als Administrator des Shops würde ich gern eine barrierefreie Kommunikation mit meinen Kunden haben, damit ich mögliche Supportanfragen rechtzeitig bearbeiten könnte.
