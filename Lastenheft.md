@@ -111,16 +111,16 @@ Die Anwendung soll qualitätativ hochwertig sein. Die Anwendung soll so implemen
 <a name="funktionen"></a>
 ## 7) Funktionen
 User Story:
-Als Administrator des Shops möchte ich ohne Programmierkenntnisse einen Shop in Telegram anliegen können, um mir meine Zeit und Mühe zu sparen.
-Als Administrator des Shops möchte ich unkompliziert das Sortiment meines Shops verwalten können, um das immer auf dem aktuellen Stand zu halten.
-Als Administrator des Shops würde ich gern eine barrierefreie Kommunikation mit meinen Kunden haben, damit ich mögliche Supportanfragen rechtzeitig bearbeiten könnte.
-Als Administrator des Shops möchte ich Funktionalitäten des Shops verändern können, damit ich meinen Shop nach aktuellem Zwecke anpassen könnte.
+- Als Administrator des Shops möchte ich ohne Programmierkenntnisse einen Shop in Telegram anliegen können, um mir meine Zeit und Mühe zu sparen.
+- Als Administrator des Shops möchte ich unkompliziert das Sortiment meines Shops verwalten können, um das immer auf dem aktuellen Stand zu halten.
+- Als Administrator des Shops würde ich gern eine barrierefreie Kommunikation mit meinen Kunden haben, damit ich mögliche Supportanfragen rechtzeitig bearbeiten könnte.
+- Als Administrator des Shops möchte ich Funktionalitäten des Shops verändern können, damit ich meinen Shop nach aktuellem Zwecke anpassen könnte.
 
-Als Kunde möchte ich Produkte eines Shops sowie deren Beschreibungen mir anschauen können, damit ich schnell ein benötigtes Produkt finden könnte.
-Als Kunde würde ich gern einen Warenkorb haben und verwalten können, damit ich eine Übersicht über meine Bestellungen habe.
-Als Kunde möchte ich Zahlungsinformation im Shop eingeben können, damit ich meine Bestellung auch bargeldlos zahlen könnte. 
-Als Kunde möchte ich Lieferadresse im Shop eingeben können, damit ich meine Bestellung auch per Post geliefert bekommen könnte. 
-Als Kunde möchte den Support kontaktieren können, im Fall, wenn ich Probleme oder Fragen beim Kaufprozess haben müsste.
+- Als Kunde möchte ich Produkte eines Shops sowie deren Beschreibungen mir anschauen können, damit ich schnell ein benötigtes Produkt finden könnte.
+- Als Kunde würde ich gern einen Warenkorb haben und verwalten können, damit ich eine Übersicht über meine Bestellungen habe.
+- Als Kunde möchte ich Zahlungsinformation im Shop eingeben können, damit ich meine Bestellung auch bargeldlos zahlen könnte. 
+- Als Kunde möchte ich Lieferadresse im Shop eingeben können, damit ich meine Bestellung auch per Post geliefert bekommen könnte. 
+- Als Kunde möchte den Support kontaktieren können, im Fall, wenn ich Probleme oder Fragen beim Kaufprozess haben müsste.
 
 <a name="ergänzungen"></a>
 ## 8) Ergänzungen
