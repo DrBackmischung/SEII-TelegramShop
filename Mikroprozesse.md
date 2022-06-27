@@ -35,12 +35,12 @@
 ## Statische Module
 - Aufbau der Applikation (Marcel & Yasin)
   - Klassendiagramm
-- Datenfluss
+- Datenfluss ✔️
   - Aktivitätsdiagramm mit BPMN
 
 ## Logische Module
-- Support-Funktion (Entscheidungen)
+- Support-Funktion (Entscheidungen)  ✔️
   - Zustandsdiagramm
-- Buchhaltung
+- Buchhaltung  ✔️
   - Use-Case-Diagramm
   - Aktivitätsdiagramm mit BPMN
