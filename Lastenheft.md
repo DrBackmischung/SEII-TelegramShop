@@ -63,7 +63,8 @@ Die Anwendung soll als B2C-Service angeboten werden und eine schnelle, unkompliz
 <a name="zielgruppen"></a>
 ### 2.2) Zielgruppen
 
-Hier Personas aus der User Story einfügen
+Administrator des Shops (Ersteller und Besitzer vom Bot)
+Kunde (Besucher des Shops)
 
 <a name="betriebsbedingungen"></a>
 ### 2.3) Betriebsbedingungen
