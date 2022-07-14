@@ -9,3 +9,4 @@ SE II Repo zur Sammlung von allen Dokumenten
 - Zeitplan (Planung)
 - Ressourcenplan (Planung)
 - Risikenanalyse (Definition)
+- Taktisches Design (Design)
