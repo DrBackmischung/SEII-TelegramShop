@@ -8,20 +8,25 @@ SE II Repo zur Sammlung von allen Dokumenten
 
 ### Due date: 26.07. 16:30
 
-- Mockup (Planung)
+- Mockup (Planung/Dima)
   - Menüauswahl
   - Warenkorb
-  - Screenshot aus richtigem Telegram
-- Strategisches Design / Domänen & Subdomänen (Design) (https://de.wikipedia.org/wiki/Domain-driven_Design#Bestandteile_des_Dom%C3%A4nenmodells) (https://entwickler.de/ddd/einfuhrung-in-die-konzepte-von-domain-driven-design-001)
+  - Screenshot aus richtigem Telegram -> Dima sucht welche raus
+- Strategisches Design / Domänen & Subdomänen (Design/Marcel/Yasin)
+  - (https://de.wikipedia.org/wiki/Domain-driven_Design#Bestandteile_des_Dom%C3%A4nenmodells)
+  - (https://entwickler.de/ddd/einfuhrung-in-die-konzepte-von-domain-driven-design-001)
   - Main Domäne
   - Sumdomänen
     - Lieferung
     - Support
     - Buchhaltung
     - ...
-- Taktisches Design (Design)
-- Designpatterns (Design)
+- Taktisches Design (Design/Mathis)
+- Designpatterns (Design/Luis/Chris)
   - Shop: Singleton
+
+### Optional
+
 - Zeitplan (Planung)
   - 0. Phase: Projektplanung
   - 1. Phase: Walking Skeleton
