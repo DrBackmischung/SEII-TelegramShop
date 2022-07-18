@@ -12,14 +12,26 @@ SE II Repo zur Sammlung von allen Dokumenten
   - Menüauswahl
   - Warenkorb
   - Screenshot aus richtigem Telegram
-- Domänen & Subdomänen (Design)
+- Strategisches Design / Domänen & Subdomänen (Design) (https://de.wikipedia.org/wiki/Domain-driven_Design#Bestandteile_des_Dom%C3%A4nenmodells) (https://entwickler.de/ddd/einfuhrung-in-die-konzepte-von-domain-driven-design-001)
   - Main Domäne
   - Sumdomänen
     - Lieferung
-- Designpatterns (Design)
-- Zeitplan (Planung)
-- Ressourcenplan (Planung)
-- Risikenanalyse (Definition)
+    - Support
+    - Buchhaltung
+    - ...
 - Taktisches Design (Design)
+- Designpatterns (Design)
+  - Shop: Singleton
+- Zeitplan (Planung)
+  - 0. Phase: Projektplanung
+  - 1. Phase: Walking Skeleton
+  - 2. Phase: Volle Funktionalität
+- Ressourcenplan (Planung)
+  - Wie viele Manntage?
+  - Duration?
+- Risikenanalyse (Planung)
+  - Welche Risiken ergeben sich?
+  - Wie kann man diese lösen?
 - Grundlagen Implentierungsphase
 - Grundlagen Wartungsphase
+- Grundlagen Abnahme- & Einführungsphase
