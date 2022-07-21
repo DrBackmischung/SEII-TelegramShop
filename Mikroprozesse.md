@@ -33,7 +33,7 @@
   - Aktivitätsdiagramm mit BPMN
 
 ## Statische Module
-- Aufbau der Applikation (Marcel & Yasin)
+- Aufbau der Applikation (Marcel & Yasin) ✔️
   - Klassendiagramm
 - Datenfluss ✔️
   - Aktivitätsdiagramm mit BPMN
