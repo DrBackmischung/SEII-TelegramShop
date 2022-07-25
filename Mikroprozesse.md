@@ -31,7 +31,7 @@
 - Kundenkonto löschen   ✔️
   - Use-Case-Diagramm
   - Aktivitätsdiagramm mit BPMN
-
+ 
 ## Statische Module
 - Aufbau der Applikation (Marcel & Yasin) ✔️
   - Klassendiagramm
